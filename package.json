@@ -24,7 +24,7 @@
   "dependencies": {
      "fs": "^0.0.1-security",
      "js-confuser": "^2.0.0"
-  }
+  },
   "bugs": {
     "url": "https://github.com/anonphoenix007/Js-Obf/issues"
   },
