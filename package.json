@@ -1,0 +1,32 @@
+{
+  "name": "js-obf",
+  "version": "1.0.0",
+  "description": "frontend for Js-Confuser for obfuscating javascript codes",
+  "main": "js-obf.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anonphoenix007/Js-Obf.git"
+  },
+  "keywords": [
+    "Obfuscator",
+    "Nodejs",
+    "Javascript",
+    "Obf",
+    "Js",
+    "terminal",
+    "script"
+  ],
+  "author": "Taira Makino",
+  "license": "ISC",
+  "dependencies": {
+     "fs": "^0.0.1-security",
+     "js-confuser": "^2.0.0"
+  }
+  "bugs": {
+    "url": "https://github.com/anonphoenix007/Js-Obf/issues"
+  },
+  "homepage": "https://github.com/anonphoenix007/Js-Obf#readme"
+}
